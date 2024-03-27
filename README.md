@@ -1,4 +1,4 @@
-# Rust_Server
+# Rust Server
 
 ## Description
 
